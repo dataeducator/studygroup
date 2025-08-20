@@ -12,8 +12,8 @@
 ## Section 1: Mathematics and Statistical Theory
 
 1. *(Short Answer)* Define the bias-variance tradeoff in statistical learning. Explain with an example in supervised machine learning.
-2. *(Problem)* Given a random variable `X` with probability density function  
-`f(x) = (1/2) * exp(-|x|)` for `x` in ℝ (Laplace distribution), calculate the mean and variance of `X`.
+2. **(Problem)** Given a random variable X with probability density function
+    f(x) = (1/2) · exp(-|x|), for all real numbers x (Laplace distribution), calculate the mean and variance of X.
 3. *(Proof)* Prove that the Central Limit Theorem holds for a sequence of i.i.d. random variables with finite mean and variance. State any necessary conditions.
 
 ---
